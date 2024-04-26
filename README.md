@@ -1,3 +1,3 @@
 # demo
 This is my first trial
-made by Tanushree
+made by Tanushree Dutta
